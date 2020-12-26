@@ -6,6 +6,7 @@ Thank you for passing by!
 - 🔭 I’m currently working on nothing in particular; Until I have an epiphany hopefully or I run out of money (hopefully not).
 - 🌱 I’m currently learning nothing in particular. I am always interested in programming paradigms patterns and optimization, also data and stream reasoning and processing.
 - 👯 I’m looking to collaborate on one of my repositories:
+  - [SunnySunday](https://github.com/bacloud14/SunnySunday): a weather web app.
   - [Gamenian](https://github.com/bacloud14/Gamenian): a noval cards game.
   - [Constrained Data Base with Slow Streams](https://github.com/bacloud14/Constrained-Data-Base-with-Slow-Streams): a draft paper.
   - [Timeline miner](https://github.com/bacloud14/timeline-miner): a ML cloud service for time mining.
