@@ -35,7 +35,7 @@ Thank you for passing by!
   - 🥺 Programming is hard, and programmers should be valued 🥺.
   - 😡 Advertising in the age of Internet is shit. Everyone can look for himself. Advertising in the Internet is like shiting in a garden. Now I think you can advertise for your product, it is now over 😡.
   - 🥺 Once, Most Hardware was sufficient for good games. I mean, the average personal computer were fit for the best games and we can make it happen again so more people play good games 🥺.
-  - Think carefully about licensing your open source stuff. Cowboys are not fooling around and they won't value your work once you let them use it anyway.
+  - Think carefully about licensing your open source stuff. Cowboys are not fooling around and they won't value your work once you let them use it anyway. you don't want to cry later when big tech don't give a shit about you.
   
   
   
