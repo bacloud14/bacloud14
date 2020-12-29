@@ -22,6 +22,7 @@ Thank you for passing by!
   - 😡 Emoji integration in Google search is shit and should be stopped 😡.
   - 😡 Antivirus is probably a fake business 😡.
   - ❤️ Github is amazing, so is Mr Linus ❤️.
+  - ❤️ Android is better than iOS for anyone ❤️.
   - 😠 Discord is for game streaming and not for programming 😠.
   - 😂 You don't need to be so nerdy. Rather try not to be 😂.
   - 🥺 Try not to repeat 'I' several times in one paragraph 🥺 ...
