@@ -20,6 +20,7 @@ Thank you for passing by!
   - Actually, FP is so easy to grasp. It is sexier and easier than PP or OO. Anyone with middle school math basics can grasp FP. I mean when you understand what f(x)=y means, that's it. Programmatically the basic is the same. Actually the confusion comes to computer science students first when they learn about memory and assignation which is different than = in math. The problem with FP in Haskell for example, is syntactic sugar; The additions that make it sexy at first but not really later.
   - 😠 Retweet bots are shit and should be stopped 😠.
   - 😡 Emoji integration in Google search is shit and should be stopped 😡.
+  - 😡 Antivirus is probably a fake business 😡.
   - ❤️ Github is amazing, so is Mr Linus ❤️.
   - 😠 Discord is for game streaming and not for programming 😠.
   - 😂 You don't need to be so nerdy. Rather try not to be 😂.
