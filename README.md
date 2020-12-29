@@ -26,6 +26,7 @@ Thank you for passing by!
   - 😂 You don't need to be so nerdy. Rather try not to be 😂.
   - 🥺 Try not to repeat 'I' several times in one paragraph 🥺 ...
   - 😂 How much narrow specialized you are in one field doesn't necessarily make your status sexier 😂.
+  - 😂 Keep reinventing the wheel shamelessly. World will not stop spinning when you are happy about your library 😂.
   - 😡 Developers are not pipe builders for data scientist 😡.
   - 🥺 A data scientist without Pandas and Numpy should still be a data scientist 🥺.
   - 🥺 Avoid being obsessed with IQ like fellas showing in Quora.com; It is not healthy 🥺.
