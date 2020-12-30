@@ -21,6 +21,7 @@ Thank you for passing by!
   - 😠 Retweet bots are shit and should be stopped 😠.
   - 😡 Emoji integration in Google search is making Internet juicy 😡.
   - 😡 Antivirus is probably a fake business 😡.
+  - Work is liberating.
   - ❤️ Github is amazing, so is Mr Linus ❤️.
   - 😠 Discord is for game streaming and not for programming 😠.
   - 😂 How much narrow specialized you are in one field doesn't necessarily make your status sexier 😂.
@@ -31,7 +32,4 @@ Thank you for passing by!
   - 🥺 Programming is hard and programmers should be valued 🥺.
   - 🥺 Once, Most Hardware was sufficient for good games. I mean, the average personal computer were fit for the best games and we can make it happen again so more people play good games 🥺.
   - 🥺 Think carefully about licensing your open source stuff. 🥺.
-  
-  
-  
   
