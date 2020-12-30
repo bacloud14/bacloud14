@@ -23,20 +23,14 @@ Thank you for passing by!
   - 😡 Antivirus is probably a fake business 😡.
   - ❤️ Github is amazing, so is Mr Linus ❤️.
   - 😠 Discord is for game streaming and not for programming 😠.
-  - 🥺 Try not to repeat 'I' several times in one paragraph 🥺 ...
   - 😂 How much narrow specialized you are in one field doesn't necessarily make your status sexier 😂.
   - 😂 Keep reinventing the wheel shamelessly. World will not stop spinning when you are happy about your library 😂.
   - 😡 Developers are not pipe builders for data scientist 😡.
-  - 🥺 A data scientist without Pandas and Numpy should still be a data scientist 🥺.
-  - 🥺 Avoid being obsessed with IQ like fellas showing in Quora.com; It is not healthy 🥺.
-  - 😡 Dark skin is not the new sexy in design; It is just here for late work 😡.
+  - 😡 Dark skin CSS is not the new sexy; It is useful for late work 😡.
   - 😃 World with Internet is much better. Just like It was with the telephone and television 😃.
-  - 😃 Try learning a new language before judging a lot someone's English 😃.
-  - ❤️ English is one beautiful language ❤️.
   - 🥺 Programming is hard and programmers should be valued 🥺.
-  - 😡 Advertising in the age of Internet is shit. Everyone can look for himself. Advertising in the Internet is like shiting in a garden. Now I think you can advertise for your product, it is now over 😡.
   - 🥺 Once, Most Hardware was sufficient for good games. I mean, the average personal computer were fit for the best games and we can make it happen again so more people play good games 🥺.
-  - 🥺 Think carefully about licensing your open source stuff. Cowboys are not fooling around and they won't value your work once you let them use it anyway. you don't want to cry later when big tech don't give a shit about you 🥺.
+  - 🥺 Think carefully about licensing your open source stuff. 🥺.
   
   
   
