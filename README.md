@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thank you for passing by! 
+Thank you for passing by! All my repositories are firstcomers friendly ! Nothing particularly intensive, whether It is Python, JavaScript, NodeJS or anything else. Some repositories are a chance for beginners to learn these technologies through a real world example also to learn collaborating using Git and Github.
 
 - 🤠 I'm a graduate in Artificial Intelligence but I am a Software engineer (a better label for me). I jump on several technologies without mastering anything in particular.
 - 🔭 I’m currently working on nothing in particular; Until I have an epiphany hopefully or I run out of money (hopefully not).
@@ -11,7 +11,7 @@ Thank you for passing by!
   - [Constrained Data Base with Slow Streams](https://github.com/bacloud14/Constrained-Data-Base-with-Slow-Streams): a draft paper.
   - [Timeline miner](https://github.com/bacloud14/timeline-miner): a ML cloud service for time mining.
   - [Datus](https://github.com/bacloud14/Datus): an Android application that extracts files metadata (probably the strongest out there!).
-  - Or any other repository. Please do not hesitate to ask a technical or a broad question about anything.
+  - Or any other repository. Please do not hesitate to ask a technical or a broad question about anything.  
 - 🤔 I’m looking for help with anyone, anywhere!
 - 💬 Ask me about how to optimise a data processing system, choose of technology or architecturing your data system. 
 - 📫 How to reach me: b@cloud14[[(at)]]gmail(dot)c0m
