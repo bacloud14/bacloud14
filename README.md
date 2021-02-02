@@ -2,7 +2,7 @@
 
 Thank you for passing by! All my repositories are firstcomers friendly ! Nothing particularly intensive, whether It is Python, JavaScript, NodeJS or anything else. Some repositories are a chance for beginners to learn these technologies through a real world example also to learn collaborating using Git and Github.
 
-- 🤠 I'm a graduate in Artificial Intelligence but I am a Software engineer (a better label for me). I jump on several technologies without mastering anything in particular.
+- 🤠 I'm a Software engineer. I jump on several technologies without mastering anything in particular.
 - 🔭 I’m currently working on nothing in particular; Until I have an epiphany hopefully or I run out of money (hopefully not).
 - 🌱 I’m currently learning nothing in particular. I am always interested in programming paradigms patterns and optimization, also data and stream reasoning and processing.
 - 👯 I’m looking to collaborate on one of my repositories:
@@ -24,12 +24,9 @@ Thank you for passing by! All my repositories are firstcomers friendly ! Nothing
   - 😡 Emoji integration in Google search is making Internet juicy 😡.
   - 😡 Antivirus is probably a fake business 😡.
   - Work is liberating.
-  - ❤️ Github is amazing, so is Mr Linus ❤️.
   - 😂 How much narrow specialized you are in one field doesn't necessarily make your status sexier 😂.
   - 😂 Keep reinventing the wheel shamelessly. World will not stop spinning when you are happy about your library 😂.
   - 😡 Dark skin CSS is not the new sexy; It is useful for late work 😡.
   - 😃 World with Internet is much better. Just like It was with the telephone and television 😃.
-  - 🥺 Programming is hard and programmers should be valued 🥺.
-  - 🥺 Once, Most Hardware was sufficient for good games. I mean, the average personal computer were fit for the best games and we can make it happen again so more people play good games 🥺.
   - 🥺 Think carefully about licensing your open source stuff. 🥺.
   
